@@ -1,2 +1,3 @@
 # StephenCrawley.github.io
-thoughts
+
+github pages personal website repo
